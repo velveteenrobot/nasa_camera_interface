@@ -1,5 +1,5 @@
 - Make a catkin_workspace:
-	- mkdir-p nasa_catkin/src
+	- mkdir -p nasa_catkin/src
 	- cd nasa_catkin/src
 	- catkin_init_workspace
 - Clone this repo into the src folder
